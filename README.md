@@ -4,7 +4,5 @@
 
 <img src="/hanfx/power_bi/blob/main/bar_chart.jpg?raw=true" alt="bar_chart.jpg"> 
   
-<img src="/hanfx/power_bi/blob/main/map_view.jpg?raw=true" alt="bar_chart.jpg"> 
-  
-<img src="/hanfx/power_bi/blob/main/map_view.jpg?raw=true" alt="pie_chart.jpg"> 
+
 
