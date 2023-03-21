@@ -13,3 +13,6 @@
   
 <h3>STACKED BAR CHART </h3>
 <img src="/stacked_bar_chart.jpg" alt=""/>
+
+<h3>TOTAL CASES PER PROVINCE, MONTH, AND MAP  </h3>
+<img src="/total_cases_map.jpg" alt=""/>
