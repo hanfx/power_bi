@@ -11,3 +11,5 @@
 <h3>MAP VIEW </h3>
 <img src="/map_view.jpg" alt=""/>
   
+<h3>STACKED BAR CHART </h3>
+<img src="/stacked_bar_chart.jpg" alt=""/>
