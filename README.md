@@ -5,6 +5,9 @@
 <img src="/hanfx/power_bi/blob/main/bar_chart.jpg?raw=true" alt="bar_chart.jpg"> 
 <img src="/bar_chart.jpg" alt=""/>
 
+<img src="/pie_chart.jpg" alt=""/>
+
+<img src="/map_view.jpg" alt=""/>
   
 
 
